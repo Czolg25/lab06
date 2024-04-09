@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab06</string>
+    <string name="title_text">Typy materiałów kontrukcyjnych</string>
+    <string name="ed_type_hint">Podaj typ materiału</string>
+    <string name="ed_stdn_hint">Podaj normę materiału</string>
+    <string name="button_text">Dodaj materiał do bazy</string>
+    <string name="a_text">TEXT</string>
+</resources>
